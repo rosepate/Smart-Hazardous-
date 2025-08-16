@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and data files
+*.joblib
+*.pkl
+*.h5
+*.csv
+*.xlsx
+
+# Test and temp files
+test.py/
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/project files
+.vscode/
+.idea/
+*.swp
+
+# Images and screenshots
+*.png
+*.jpg
+*.jpeg
+*.gif
+Screenshot*
+
+# HTML outputs
+route_graph.html
