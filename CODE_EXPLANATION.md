@@ -48,7 +48,7 @@
   - Sums up the distances for a given route using a predefined distance matrix.
   - *Why:* Provides a simple, reusable way to calculate route cost for optimization and reporting.
 
-This document provides a technical overview of the main components and logic in the Smart Hazardous Waste Expert System. It is designed to accompany your video presentation and focuses on the most important modules and their roles in the system. Not every line is explained; instead, the emphasis is on the architecture and key algorithms.
+
 
 ## 1. Streamlit User Interface (`Streamlit_app.py`)
 - **Purpose:** Provides a modern, interactive web interface for users to input waste details, view classification results, and visualize optimized routes.
